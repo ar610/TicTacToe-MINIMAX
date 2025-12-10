@@ -1,3 +1,5 @@
+https://minimax-tic-tac-toe-v01.netlify.app/
+
 # AI Tic-Tac-Toe
 
 Welcome! This is a small, friendly demo project that showcases a Tic-Tac-Toe game built with React and Vite, including a simple AI player. It's perfect for learning about game logic, Minimax-style decision making, and how to structure a tiny React app for fun and education.
